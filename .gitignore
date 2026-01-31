@@ -68,6 +68,9 @@ temp/
 *.sqlite3
 *.db
 *.db-journal
+*.db-shm
+*.db-wal
+data/*.db*
 
 # Python (if used for data analysis/ML)
 __pycache__/
