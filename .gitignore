@@ -90,6 +90,9 @@ health_records/
 *.csv
 *.xlsx
 *.json
+!package.json
+!tsconfig.json
+!tsconfig.*.json
 !**/config/*.json
 !**/sample/*.json
 
